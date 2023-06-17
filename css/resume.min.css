@@ -45,3 +45,6 @@
     display: block;
     padding: .625rem .5rem;
   }
+  .grid-item figp{
+    color: black; 
+  }
